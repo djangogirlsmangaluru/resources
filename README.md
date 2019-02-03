@@ -9,7 +9,7 @@
 This repository is dedicated to assimilation of contents and learning materials related to the workshop. You would be able to find links for tutorials related to HTML, CSS, JS, Python and Django. If you feel like adding more to this list, please submit a PR with the required links added to the list.
 
 # Python
-- link...
+- Udacity - [Programming Foundations with Python](https://in.udacity.com/course/programming-foundations-with-python--ud036s)
 - link...
 - link...
 
@@ -19,11 +19,29 @@ This repository is dedicated to assimilation of contents and learning materials 
 - link...
 
 # HTML and CSS
-- link...
-- link...
-- link...
+### HTML
+- Scrimba - [Introduction to HTML 5](https://scrimba.com/g/ghtml)
+- FreeCodeCamp - [Basic HTML and HTML5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)
+- Udacity - [Intro to HTML and CSS](https://in.udacity.com/course/intro-to-html-and-css--ud001-india)
+### CSS
+- Scrimba - [Introduction to CSS](https://scrimba.com/g/gintrotocss)
+- Scrimba - [Introduction to FlexBox](https://scrimba.com/g/gflexbox)
+- [FlexBox Froggy CSS Training](https://flexboxfroggy.com/) :star:
+- Scrimba - [Introduction to CSS Grid](https://scrimba.com/g/gR8PTE)
+- [CSS Grid Garden CSS Training](https://cssgridgarden.com/) :star:
+
+### CSS Frameworks
+- Scrimba - [Introduction to BootStrap](https://scrimba.com/g/gbootstrap4)
+- Scrimba - [Introduction to BulmaCSS](https://scrimba.com/g/gbulma)
+- [BootStrap4 CSS Framework](https://getbootstrap.com/)
+- [Bulma CSS Framework](https://bulma.io)
+- [Materialize CSS Framework](https://materializecss.com/)
 
 # JavaScript
-- link...
-- link...
-- link...
+- Udacity - [Intro to JavaScript](https://in.udacity.com/course/intro-to-javascript--ud803-india)
+- Scrimba - [Introduction to JavaScript](https://scrimba.com/g/gintrotojavascript)
+- WesBos - [JavaScript30](https://javascript30.com/) :star:
+- LevelUpTuts - [JavaScript Basics](https://www.leveluptutorials.com/tutorials/javascript-tutorials)
+
+# Git and GitHub
+- Refer SOSC's [Git and GitHub Workshop resources](https://github.com/so-sc/github-workshop)
