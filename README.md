@@ -10,7 +10,7 @@ This repository is dedicated to assimilation of contents and learning materials 
 
 ## Python
 - Udacity - [Programming Foundations with Python](https://in.udacity.com/course/programming-foundations-with-python--ud036s)
-- Labex.io - [Intro to python3](https://labex.io/courses/intro-to-python-3)
+- FreeCodeCamp - [Python Tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw)
 - link...
 
 ## Django
