@@ -11,7 +11,8 @@ This repository is dedicated to assimilation of contents and learning materials 
 ## Python
 - Udacity - [Programming Foundations with Python](https://in.udacity.com/course/programming-foundations-with-python--ud036s)
 - FreeCodeCamp - [Python Tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw)
-- link...
+- Programming with Mosh - [Python Crash Course](https://www.youtube.com/watch?v=f79MRyMsjrQ&list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f)
+- CS50 - [Python Lecture - 06](https://youtu.be/mvlTSMUNQN4)
 
 ## Django
 - Traversy Media - [Django Crash Course](https://www.youtube.com/watch?v=D6esTdOLXh4)
@@ -23,6 +24,8 @@ This repository is dedicated to assimilation of contents and learning materials 
 - Scrimba - [Introduction to HTML 5](https://scrimba.com/g/ghtml)
 - FreeCodeCamp - [Basic HTML and HTML5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)
 - Udacity - [Intro to HTML and CSS](https://in.udacity.com/course/intro-to-html-and-css--ud001-india)
+- CS50 - [HTML, HTTP, CSS](https://youtu.be/uEmF74eHRO8)
+
 ### CSS
 - Scrimba - [Introduction to CSS](https://scrimba.com/g/gintrotocss)
 - Scrimba - [Introduction to FlexBox](https://scrimba.com/g/gflexbox)
@@ -42,6 +45,7 @@ This repository is dedicated to assimilation of contents and learning materials 
 - Scrimba - [Introduction to JavaScript](https://scrimba.com/g/gintrotojavascript)
 - WesBos - [JavaScript30](https://javascript30.com/) :star:
 - LevelUpTuts - [JavaScript Basics](https://www.leveluptutorials.com/tutorials/javascript-tutorials)
+- CS50 - [JavaScript](https://youtu.be/dlEPkLSDQi0)
 
 ## Git and GitHub
 - Refer SOSC's [Git and GitHub Workshop resources](https://github.com/so-sc/github-workshop)
