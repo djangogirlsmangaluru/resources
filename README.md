@@ -8,17 +8,17 @@
 
 This repository is dedicated to assimilation of contents and learning materials related to the workshop. You would be able to find links for tutorials related to HTML, CSS, JS, Python and Django. If you feel like adding more to this list, please submit a PR with the required links added to the list.
 
-# Python
+## Python
 - Udacity - [Programming Foundations with Python](https://in.udacity.com/course/programming-foundations-with-python--ud036s)
 - link...
 - link...
 
-# Django
+## Django
 - Traversy Media - [Django Crash Course](https://www.youtube.com/watch?v=D6esTdOLXh4)
 - The New Boston - [Django tutorial for beginners](https://www.youtube.com/watch?v=qgGIqRFvFFk&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
 - link...
 
-# HTML and CSS
+## HTML and CSS
 ### HTML
 - Scrimba - [Introduction to HTML 5](https://scrimba.com/g/ghtml)
 - FreeCodeCamp - [Basic HTML and HTML5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)
@@ -37,11 +37,11 @@ This repository is dedicated to assimilation of contents and learning materials 
 - [Bulma CSS Framework](https://bulma.io)
 - [Materialize CSS Framework](https://materializecss.com/)
 
-# JavaScript
+## JavaScript
 - Udacity - [Intro to JavaScript](https://in.udacity.com/course/intro-to-javascript--ud803-india)
 - Scrimba - [Introduction to JavaScript](https://scrimba.com/g/gintrotojavascript)
 - WesBos - [JavaScript30](https://javascript30.com/) :star:
 - LevelUpTuts - [JavaScript Basics](https://www.leveluptutorials.com/tutorials/javascript-tutorials)
 
-# Git and GitHub
+## Git and GitHub
 - Refer SOSC's [Git and GitHub Workshop resources](https://github.com/so-sc/github-workshop)
