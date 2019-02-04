@@ -18,6 +18,10 @@ This repository is dedicated to assimilation of contents and learning materials 
 - Traversy Media - [Django Crash Course](https://www.youtube.com/watch?v=D6esTdOLXh4)
 - The New Boston - [Django tutorial for beginners](https://www.youtube.com/watch?v=qgGIqRFvFFk&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
 - link...
+- CS50 
+  - [Web Development with Python and Django, by Nicholas Wong](https://www.youtube.com/watch?v=-80wbZiSPRY)
+  - [Django - Lecture 7 - CS50's Web Programming with Python](https://www.youtube.com/watch?v=ZjAMRnCu-84)
+- freeCodeCamp [Python Django Web Framework - Full Course for Beginners,freeCodeCamp](https://www.youtube.com/watch?v=F5mRW0jo-U4)
 
 ## HTML and CSS
 ### HTML
